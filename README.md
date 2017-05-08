@@ -1,5 +1,7 @@
 # babel-preset-gas
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/fossamagna/babel-preset-gas.svg)](https://greenkeeper.io/)
+
 > Babel preset for all Goolge Apps Script plugins.
 
 This preset includes the following plugins:
