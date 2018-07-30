@@ -4,6 +4,7 @@
   "description": "Babel preset for all Goolge Apps Script plugins.",
   "main": "lib/index.js",
   "scripts": {
+    "pretest": "babel --out-dir lib src",
     "test": "eslint src && jest",
     "prepare": "babel --out-dir lib src"
   },
