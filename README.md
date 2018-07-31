@@ -4,8 +4,8 @@
 
 This preset includes the following plugins:
 
-- [transform-es3-member-expression-literals](https://babeljs.io/docs/plugins/transform-es3-member-expression-literals/)
-- [transform-es3-property-literals](https://babeljs.io/docs/plugins/transform-es3-property-literals/)
+- [babel-plugin-transform-member-expression-literals](https://babeljs.io/docs/en/next/babel-plugin-transform-member-expression-literals)
+- [babel-plugin-transform-property-literals](https://babeljs.io/docs/en/next/babel-plugin-transform-property-literals)
 
 ## Example
 
@@ -52,7 +52,7 @@ babel --presets gas script.js
 ### Via Node API
 
 ```javascript
-require("babel-core").transform("code", {
-  presets: ["gas"]
+require("@babel/core").transform("code", {
+  plugins: ["gas"]
 });
 ```
