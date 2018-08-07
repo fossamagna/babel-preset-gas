@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-gas",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Babel preset for all Goolge Apps Script plugins.",
   "main": "lib/index.js",
   "scripts": {
