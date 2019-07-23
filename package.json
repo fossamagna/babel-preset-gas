@@ -37,7 +37,7 @@
     "@babel/helper-plugin-test-runner": "^7.0.0",
     "babel-core": "^7.0.0-bridge.0",
     "babel-jest": "^24.0.0",
-    "eslint": "^5.2.0",
+    "eslint": "^6.1.0",
     "jest": "^24.0.0"
   },
   "babel": {
