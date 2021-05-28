@@ -36,7 +36,7 @@
     "@babel/core": "^7.0.0",
     "@babel/helper-plugin-test-runner": "^7.0.0",
     "babel-core": "^7.0.0-bridge.0",
-    "babel-jest": "^26.0.1",
+    "babel-jest": "^27.0.1",
     "eslint": "^7.25.0",
     "jest": "^27.0.1"
   },
