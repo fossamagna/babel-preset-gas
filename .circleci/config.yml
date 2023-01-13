@@ -38,16 +38,16 @@ jobs:
   node-v10:
     <<: *node-base
     docker:
-      - image: node:10
+      - image: node:19
   node-v12:
     <<: *node-base
     docker:
-      - image: node:12
+      - image: node:19
   node-v14:
     <<: *node-base
     docker:
-      - image: node:14
+      - image: node:19
   node-v16:
     <<: *node-base
     docker:
-      - image: node:16
+      - image: node:19
